@@ -1,0 +1,409 @@
+{
+  "periodo": "2026-09",
+  "mes_nome": "Setembro/2026",
+  "atualizacao_fonte": "2026-10-19",
+  "unidade": "R$ correntes (nominais, sem deflacionar)",
+  "total_mes": 239384140375.309,
+  "total_mes_ano_anterior": 216726510649.10098,
+  "total_mes_anterior": 235566275876.25995,
+  "var_yoy_pct": 10.45,
+  "var_mom_pct": 1.62,
+  "acum_ano": 2320227848583.327,
+  "acum_ano_anterior": 2105490078579.8667,
+  "var_acum_pct": 10.2,
+  "top5_ufs": [
+    {
+      "UF": "SP",
+      "Total": 96181556114.71,
+      "Participação %": 40.18,
+      "Mesmo mês ano anterior": 71394136486.05,
+      "Var. a/a %": 34.72
+    },
+    {
+      "UF": "RJ",
+      "Total": 38693131405.9,
+      "Participação %": 16.16,
+      "Mesmo mês ano anterior": 25367011521.39,
+      "Var. a/a %": 52.53
+    },
+    {
+      "UF": "DF",
+      "Total": 15767784703.86,
+      "Participação %": 6.59,
+      "Mesmo mês ano anterior": 49735490598.51,
+      "Var. a/a %": -68.3
+    },
+    {
+      "UF": "MG",
+      "Total": 14457533162.36,
+      "Participação %": 6.04,
+      "Mesmo mês ano anterior": 12383212027.81,
+      "Var. a/a %": 16.75
+    },
+    {
+      "UF": "SC",
+      "Total": 13163206827.94,
+      "Participação %": 5.5,
+      "Mesmo mês ano anterior": 10495700608.25,
+      "Var. a/a %": 25.42
+    }
+  ],
+  "concentracao_top3_pct": 62.93,
+  "uf_foco": {
+    "UF": "PE",
+    "Total": 3916815794.55,
+    "Participação %": 1.64,
+    "Mesmo mês ano anterior": 3048317662.38,
+    "Var. a/a %": 28.49,
+    "posicao": 10
+  },
+  "tributos": [
+    {
+      "Tributo": "Previdenciária",
+      "Mês atual": 68348661685.05,
+      "Mesmo mês ano anterior": 61711210162.03,
+      "Participação %": 28.55,
+      "Var. a/a %": 10.76
+    },
+    {
+      "Tributo": "Cofins",
+      "Mês atual": 39791898105.21,
+      "Mesmo mês ano anterior": 37656299228.07,
+      "Participação %": 16.62,
+      "Var. a/a %": 5.67
+    },
+    {
+      "Tributo": "IRRF",
+      "Mês atual": 38106291673.6,
+      "Mesmo mês ano anterior": 36928087513.53,
+      "Participação %": 15.92,
+      "Var. a/a %": 3.19
+    },
+    {
+      "Tributo": "IRPJ",
+      "Mês atual": 19162812496.34,
+      "Mesmo mês ano anterior": 18274681693.29,
+      "Participação %": 8.01,
+      "Var. a/a %": 4.86
+    },
+    {
+      "Tributo": "Outros",
+      "Mês atual": 15510057295.97,
+      "Mesmo mês ano anterior": 9878304771.61,
+      "Participação %": 6.48,
+      "Var. a/a %": 57.01
+    },
+    {
+      "Tributo": "Importação/Exportação",
+      "Mês atual": 12722454037.06,
+      "Mesmo mês ano anterior": 7744822214.74,
+      "Participação %": 5.31,
+      "Var. a/a %": 64.27
+    },
+    {
+      "Tributo": "CSLL",
+      "Mês atual": 10656824611.83,
+      "Mesmo mês ano anterior": 9941515421.77,
+      "Participação %": 4.45,
+      "Var. a/a %": 7.2
+    },
+    {
+      "Tributo": "PIS/Pasep",
+      "Mês atual": 10602896317.38,
+      "Mesmo mês ano anterior": 10172049961.48,
+      "Participação %": 4.43,
+      "Var. a/a %": 4.24
+    },
+    {
+      "Tributo": "IOF",
+      "Mês atual": 8040709673.34,
+      "Mesmo mês ano anterior": 8454949479.77,
+      "Participação %": 3.36,
+      "Var. a/a %": -4.9
+    },
+    {
+      "Tributo": "IPI",
+      "Mês atual": 7325851706.47,
+      "Mesmo mês ano anterior": 7308086066.35,
+      "Participação %": 3.06,
+      "Var. a/a %": 0.24
+    },
+    {
+      "Tributo": "IRPF",
+      "Mês atual": 6078831640.5,
+      "Mesmo mês ano anterior": 5834680255.91,
+      "Participação %": 2.54,
+      "Var. a/a %": 4.18
+    },
+    {
+      "Tributo": "ITR",
+      "Mês atual": 2801071309.83,
+      "Mesmo mês ano anterior": 2563381125.83,
+      "Participação %": 1.17,
+      "Var. a/a %": 9.27
+    },
+    {
+      "Tributo": "Cide",
+      "Mês atual": 235779822.73,
+      "Mesmo mês ano anterior": 258442754.72,
+      "Participação %": 0.1,
+      "Var. a/a %": -8.77
+    }
+  ],
+  "perfil_uf_foco": {
+    "uf": "PE",
+    "total_mes": 3916815794.5499997,
+    "total_mes_ano_anterior": 3048317662.38,
+    "total_mes_anterior": 3835229092.1900005,
+    "var_yoy_pct": 28.49,
+    "var_mom_pct": 2.13,
+    "acum_ano": 36262034558.810005,
+    "acum_ano_anterior": 28891548359.960003,
+    "var_acum_pct": 25.51,
+    "participacao_nacional_pct": 1.64,
+    "posicao_nacional": 10,
+    "posicao_nordeste": 2,
+    "participacao_nordeste_pct": 19.98,
+    "tributos": [
+      {
+        "Tributo": "Previdenciária",
+        "Mês atual": 1578107312.9,
+        "Mesmo mês ano anterior": 1115428136.45,
+        "Participação %": 40.29,
+        "Var. a/a %": 41.48
+      },
+      {
+        "Tributo": "Cofins",
+        "Mês atual": 775315371.72,
+        "Mesmo mês ano anterior": 634832120.67,
+        "Participação %": 19.79,
+        "Var. a/a %": 22.13
+      },
+      {
+        "Tributo": "IRRF",
+        "Mês atual": 286127361.26,
+        "Mesmo mês ano anterior": 209890375.51,
+        "Participação %": 7.31,
+        "Var. a/a %": 36.32
+      },
+      {
+        "Tributo": "IRPJ",
+        "Mês atual": 233369736.22,
+        "Mesmo mês ano anterior": 179031396.8,
+        "Participação %": 5.96,
+        "Var. a/a %": 30.35
+      },
+      {
+        "Tributo": "PIS/Pasep",
+        "Mês atual": 224432461.57,
+        "Mesmo mês ano anterior": 191991239.92,
+        "Participação %": 5.73,
+        "Var. a/a %": 16.9
+      },
+      {
+        "Tributo": "Importação/Exportação",
+        "Mês atual": 206889445.34,
+        "Mesmo mês ano anterior": 168996227.43,
+        "Participação %": 5.28,
+        "Var. a/a %": 22.42
+      },
+      {
+        "Tributo": "IPI",
+        "Mês atual": 186155490.8,
+        "Mesmo mês ano anterior": 184304957.25,
+        "Participação %": 4.75,
+        "Var. a/a %": 1.0
+      },
+      {
+        "Tributo": "CSLL",
+        "Mês atual": 151021809.19,
+        "Mesmo mês ano anterior": 115159294.88,
+        "Participação %": 3.86,
+        "Var. a/a %": 31.14
+      },
+      {
+        "Tributo": "IRPF",
+        "Mês atual": 129764059.3,
+        "Mesmo mês ano anterior": 118566975.6,
+        "Participação %": 3.31,
+        "Var. a/a %": 9.44
+      },
+      {
+        "Tributo": "Outros",
+        "Mês atual": 115211119.51,
+        "Mesmo mês ano anterior": 109678619.67,
+        "Participação %": 2.94,
+        "Var. a/a %": 5.04
+      },
+      {
+        "Tributo": "Cide",
+        "Mês atual": 18724299.98,
+        "Mesmo mês ano anterior": 6877134.03,
+        "Participação %": 0.48,
+        "Var. a/a %": 172.27
+      },
+      {
+        "Tributo": "IOF",
+        "Mês atual": 7714006.88,
+        "Mesmo mês ano anterior": 7608893.66,
+        "Participação %": 0.2,
+        "Var. a/a %": 1.38
+      },
+      {
+        "Tributo": "ITR",
+        "Mês atual": 3983319.88,
+        "Mesmo mês ano anterior": 5952290.51,
+        "Participação %": 0.1,
+        "Var. a/a %": -33.08
+      }
+    ],
+    "serie_13_meses": [
+      {
+        "Período": "2025-09",
+        "Total": 3048317662.38,
+        "Var. a/a %": -3.8
+      },
+      {
+        "Período": "2025-10",
+        "Total": 3385972588.17,
+        "Var. a/a %": -10.48
+      },
+      {
+        "Período": "2025-11",
+        "Total": 3173522080.09,
+        "Var. a/a %": -8.2
+      },
+      {
+        "Período": "2025-12",
+        "Total": 3711254427.54,
+        "Var. a/a %": -9.38
+      },
+      {
+        "Período": "2026-01",
+        "Total": 4531456204.62,
+        "Var. a/a %": 7.06
+      },
+      {
+        "Período": "2026-02",
+        "Total": 3518787035.73,
+        "Var. a/a %": 13.65
+      },
+      {
+        "Período": "2026-03",
+        "Total": 3483117363.33,
+        "Var. a/a %": 28.56
+      },
+      {
+        "Período": "2026-04",
+        "Total": 4293002855.43,
+        "Var. a/a %": 42.91
+      },
+      {
+        "Período": "2026-05",
+        "Total": 4189421929.96,
+        "Var. a/a %": 31.02
+      },
+      {
+        "Período": "2026-06",
+        "Total": 3910551676.38,
+        "Var. a/a %": 17.24
+      },
+      {
+        "Período": "2026-07",
+        "Total": 4583652606.62,
+        "Var. a/a %": 29.73
+      },
+      {
+        "Período": "2026-08",
+        "Total": 3835229092.19,
+        "Var. a/a %": 40.24
+      },
+      {
+        "Período": "2026-09",
+        "Total": 3916815794.55,
+        "Var. a/a %": 28.49
+      }
+    ]
+  },
+  "cnae_top5": [
+    {
+      "Seção - Sigla": "K",
+      "Seção - Nome": "Atividades financeiras, de seguros e serviços relacionados",
+      "Total": 40787609230.69,
+      "Participação %": 17.11
+    },
+    {
+      "Seção - Sigla": "C",
+      "Seção - Nome": "Indústrias de transformação",
+      "Total": 38121315691.3,
+      "Participação %": 15.99
+    },
+    {
+      "Seção - Sigla": "G",
+      "Seção - Nome": "Comércio; reparação de veículos automotores e motocicletas",
+      "Total": 35708496417.77,
+      "Participação %": 14.98
+    },
+    {
+      "Seção - Sigla": "B",
+      "Seção - Nome": "Indústrias extrativas",
+      "Total": 21884879712.07,
+      "Participação %": 9.18
+    },
+    {
+      "Seção - Sigla": "O",
+      "Seção - Nome": "Administração pública, defesa e seguridade social",
+      "Total": 17067954600.46,
+      "Participação %": 7.16
+    }
+  ],
+  "cnae_total_darf": 238335867130.19,
+  "natureza_top5": [
+    {
+      "Natureza Jurídica - Nome": "SOCIEDADE EMPRESÁRIA LIMITADA",
+      "Total": 109346860577.82,
+      "Participação %": 45.88
+    },
+    {
+      "Natureza Jurídica - Nome": "SOCIEDADE ANÔNIMA FECHADA",
+      "Total": 42895649182.69,
+      "Participação %": 18.0
+    },
+    {
+      "Natureza Jurídica - Nome": "SOCIEDADE DE ECONOMIA MISTA",
+      "Total": 20219233395.18,
+      "Participação %": 8.48
+    },
+    {
+      "Natureza Jurídica - Nome": "SOCIEDADE ANÔNIMA ABERTA",
+      "Total": 14350275304.15,
+      "Participação %": 6.02
+    },
+    {
+      "Natureza Jurídica - Nome": "PESSOA FÍSICA",
+      "Total": 9699665400.84,
+      "Participação %": 4.07
+    }
+  ],
+  "razao_darf_sobre_total_pct": 99.56,
+  "ir_ipi_decendial": [
+    {
+      "Tributo": "IPI",
+      "Arrecadação Bruta": 7311206512.0,
+      "Retificação": -1462.22,
+      "Compensação": 1110026769.8,
+      "Restituição": -102963759.54,
+      "Outros": 23509295.72,
+      "Arrecadação Líquida": 8346952295.0
+    },
+    {
+      "Tributo": "IR",
+      "Arrecadação Bruta": 62217055514.0,
+      "Retificação": 176773683.13,
+      "Compensação": 1136556802.0,
+      "Restituição": -1838285745.07,
+      "Outros": 1315257904.6,
+      "Arrecadação Líquida": 63065842948.0
+    }
+  ]
+}

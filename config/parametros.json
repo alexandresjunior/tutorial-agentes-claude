@@ -1,0 +1,7 @@
+{
+  "orgao": "Nome do seu órgão/unidade",
+  "uf_foco": "PE",
+  "publico": "Gestores e dirigentes do órgão",
+  "pasta_drive_id": "",
+  "observacao": "uf_foco: sigla da UF a destacar (ex.: MG). Deixe vazio para não destacar. O kit vem configurado para PE (Pernambuco). pasta_drive_id: ID da pasta do Google Drive onde salvar planilha e documento (opcional)."
+}

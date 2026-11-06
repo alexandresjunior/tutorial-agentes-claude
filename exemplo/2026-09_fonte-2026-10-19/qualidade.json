@@ -1,0 +1,20 @@
+{
+  "avisos_escopo": [
+    "O conjunto não contém arrecadação por município: o arquivo de ITR por município veio duplicado do de IR/IPI. Análises municipais exigem outra fonte (Tesouro Nacional, transferências constitucionais)."
+  ],
+  "zip": "Dados_Abertos_-_Resultado_da_Arrecadação_Governo_Federal_-_Última_Atualização_19-10-2026.zip",
+  "zip_md5": "f0bfe61b781987097d66b433414d429c",
+  "atualizacao_fonte": "2026-10-19",
+  "alertas": [
+    "arrecadacao-itr.csv é byte-a-byte idêntico a arrecadacao-ir-ipi.csv (contém IR/IPI, não ITR por município, como diz o metadado). Arquivo IGNORADO.",
+    "IR/IPI: 60 linhas em que bruta+eventos ≠ líquida (tolerância R$ 1)"
+  ],
+  "anomalias_numericas": [],
+  "status": "ATENÇÃO",
+  "linhas_lidas": {
+    "estado": 8667,
+    "cnae": 3096,
+    "natureza": 10351,
+    "ir_ipi": 558
+  }
+}
